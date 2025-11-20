@@ -35,19 +35,19 @@ CSE Student @ SRM University AP | IoT & Tech Enthusiast | Hackathon Runner-Up
 
 ### 🚀 Projects
 
-- **Smart Bicycle System** — IoT safety + tracking (My1stHack 2025 Runner-Up)
+- **Smart Bicycle System** - IoT safety + tracking (My1stHack 2025 Runner-Up)
 - **Gesture-Control Device (Build Club)**
 - **Rolling Display (Build Club)**
-- **Chandrayaan-3 Documentary** — Educational project
+- **Chandrayaan-3 Documentary** - Educational project
 
 ---
 
 ### 🏆 Achievements
 
-- 🥈 1st Runner-Up — My1stHack 2025 (100+ teams)
-- 🥉 3rd Place — Bridge Building Competition (ADU)
-- 🏆 1st Place — Throwball Tournament
-- 🎭 2nd Place — *Macbeth* Drama Competition
+- 🥈 1st Runner-Up - My1stHack 2025 (100+ teams)
+- 🥉 3rd Place - Bridge Building Competition (ADU)
+- 🏆 1st Place - Throwball Tournament
+- 🎭 2nd Place - *Macbeth* Drama Competition
 - 🌱 100+ Ghaf trees planted (Volunteers.ae)
 
 ---
@@ -67,10 +67,10 @@ CSE Student @ SRM University AP | IoT & Tech Enthusiast | Hackathon Runner-Up
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jameela-muskaan-559723289">
+  <a href="https://linkedin.com/in/jameela-muskaan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jameelamuskaan5@gmail.com">
+  <a href="mailto:itsmuskaanhere4@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
