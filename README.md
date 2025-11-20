@@ -46,7 +46,7 @@ CSE Student @ SRM University AP | IoT & Tech Enthusiast | Hackathon Runner-Up
 
 ### 📫 Connect With Me
 
-**LinkedIn:** https://linkedin.com/in/jameela-muskaan-559723289  
+**LinkedIn:** https://linkedin.com/in/jameela-muskaan  
 **Email:** *itsmuskaanhere4@gmail.com*
 
 ---
