@@ -8,7 +8,7 @@ CSE Student @ SRM University AP | IoT & Tech Enthusiast | Hackathon Runner-Up
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech CSE student at SRM University AP (Class of 2028)
+- 🎓 B.Tech CSE student at SRM University AP (Class of 2029)
 - 🛠 Interested in IoT, hardware + software systems, and education tech
 - 🌱 Currently learning Data Science, Python, and Embedded Systems
 - 🤝 Open to collaborating on IoT, web, and community projects
@@ -27,19 +27,19 @@ CSE Student @ SRM University AP | IoT & Tech Enthusiast | Hackathon Runner-Up
 
 ### 🚀 Projects
 
-- **Smart Bicycle System** — IoT safety + tracking (My1stHack 2025 Runner-Up)
+- **Smart Bicycle System** - IoT safety + tracking (My1stHack 2025 Runner-Up)
 - **Gesture-Control Device (Build Club)**
 - **Rolling Display (Build Club)**
-- **Chandrayaan-3 Documentary** — Educational project
+- **Chandrayaan-3 Documentary** - Educational project
 
 ---
 
 ### 🏆 Achievements
 
-- 🥈 1st Runner-Up — My1stHack 2025 (100+ teams)
-- 🏅 3rd Place — Bridge Building Competition (ADU)
-- 🏆 1st Place — Throwball Tournament
-- 🎭 2nd Place — *Macbeth* Drama Competition
+- 🥈 1st Runner-Up - My1stHack 2025 (100+ teams)
+- 🏅 3rd Place - Bridge Building Competition (ADU)
+- 🏆 1st Place - Throwball Tournament
+- 🎭 2nd Place - *Macbeth* Drama Competition
 - 🌱 100+ Ghaf trees planted (Volunteers.ae)
 
 ---
@@ -47,7 +47,7 @@ CSE Student @ SRM University AP | IoT & Tech Enthusiast | Hackathon Runner-Up
 ### 📫 Connect With Me
 
 **LinkedIn:** https://linkedin.com/in/jameela-muskaan-559723289  
-**Email:** *Add your email here*
+**Email:** *itsmuskaanhere4@gmail.com*
 
 ---
 
